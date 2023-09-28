@@ -1,0 +1,1 @@
+# detection_des_logos_de_voitures_using_SVM_HOG_NMS_CV2_Python
